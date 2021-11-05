@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diypa571
-- 👀 I’m interested in ... C, C++, PHP, Javascript, Mysql, ASP.NET CORE, C#, HTML5,CSS, Tailwind CSS and Bootstrap
+- 👀 I’m interested in ... C, C++, PHP, Javascript, Mysql, ASP.NET CORE, C#, HTML5,CSS, WordPress, Tailwind CSS and Bootstrap
 - 🌱 I’m currently learning ... Tailwind CSS, React native, Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
