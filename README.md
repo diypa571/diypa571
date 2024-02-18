@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diypa571
-- 👀 I’m interested in  Linux, Bash, C, C++, Java, PHP, Javascript, Vue, Mysql, ASP.NET CORE, C#, HTML5,CSS, WordPress, Tailwind CSS and Bootstrap, , Flutter
+- 👀 I’m interested in  Linux, Bash, C, C++, Java, PHP, Javascript, Vue, Mysql, ASP.NET CORE, C#, HTML5,CSS, WordPress, Tailwind CSS and Bootstrap, React Native, Docker
 - 💞️ I’m looking to collaborate  
 - 🌱 I’m currently learning ...   Flutter & Go
 - 💞️ I’m looking to collaborate on ...
