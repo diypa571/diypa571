@@ -1,6 +1,6 @@
 - 👋  @diypa571 
 - https://synlex.se/ai
-- 👀 Interested in  Linux, (Arch,Redhat,  (Ubuntu < Arch)) Bash, hardware design, microcontroller programming,  Avr Assembly, C, C++,  PHP (OOP), Javascript,  Vue, Mysql, ASP.NET CORE, C#, HTML5,CSS, WordPress, Tailwind CSS and Bootstrap, React Native, Docker, CD, CI, AWS,Azhure, Dispatcher systems, Larm Systems, LoadBalancer, Container, (podman > docker), Cyber Security,Rest API,CloudFlare, (Nginx > Apache) , (Android Apps, IOS Apps) with Xocde and Android Studio.
+- 👀 Interested in  Linux systems, (Arch,Redhat,  (Ubuntu < Arch)) Bash, hardware design, microcontroller programming,  Avr Assembly, C, C++,  PHP (OOP), Javascript,  Vue, Mysql, ASP.NET CORE, C#, HTML5,CSS, WordPress, Tailwind CSS and Bootstrap, React Native, Docker, CD, CI, AWS,Azhure, Dispatcher systems, Larm Systems, LoadBalancer, Container, (podman > docker), Cyber Security,Rest API,CloudFlare, (Nginx > Apache) , (Android Apps, IOS Apps) with Xocde and Android Studio.
 - 💞️ I’m looking to collaborate  
 - 🌱 I’m currently learning ...   Kotlin & AI
 - 💞️ I’m looking to collaborate on ...
