@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diypa571 diyar parwana
 - https://synlex.se/ai
-- 👀 I’m interested in  Linux, (Arch,Redhat,  (Ubuntu < Arche)) Bash, C, C++, Java, PHP (OOP), Javascript, Vue, Mysql, ASP.NET CORE, C#, HTML5,CSS, WordPress, Tailwind CSS and Bootstrap, React Native, Docker, CD, CI, AWS,Azhure, Dispatcher systems, LoadBalancer, Container, (podman > docker), Ceyber Security,Rest API,CloudFlare, (Nginx > Apache)  
+- 👀 Interested in  Linux, (Arch,Redhat,  (Ubuntu < Arch)) Bash, C, C++, Java, PHP (OOP), Javascript, Vue, Mysql, ASP.NET CORE, C#, HTML5,CSS, WordPress, Tailwind CSS and Bootstrap, React Native, Docker, CD, CI, AWS,Azhure, Dispatcher systems, Larm Systems, LoadBalancer, Container, (podman > docker), Cyber Security,Rest API,CloudFlare, (Nginx > Apache). 
 - 💞️ I’m looking to collaborate  
 - 🌱 I’m currently learning ...   Kotlin & AI
 - 💞️ I’m looking to collaborate on ...
